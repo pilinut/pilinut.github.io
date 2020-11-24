@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [123.947                    ,
+                    10.341                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Restaurant",
+                "hours": "10am - 6pm",
+                "name": "Naruto's Ramen House",
+                "phone": "+44 20 1234 5678",
+                "visits": "2005",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [123.946,
+                    10.298
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Restaurant",
+                "hours": "10am - 11pm",
+                "name": "Naruto's Pares",
+                "phone": "+63 1603 123456",
+                "visits": "502",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [123.940,
+                    10.335                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Cafe",
+                "hours": "5am - 2am",
+                "name": "Luffy's Kapihan",
+                "phone": "+63 1202 343434",
+                "visits": "3206",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [123.855,
+                    10.279                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Cafe",
+                "hours": "-",
+                "name": "Gon's Hunters Cafe",
+                "phone": "+63 151 444 4444",
+                "visits": "365",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [123.896,
+                    10.289                    
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Restaurant",
+                "hours": "10am - 11pm",
+                "name": "Goku's Lechon",
+                "phone": "+63 5555 55555",
+                "visits": "5809",
+                "storeid": "05"
+            }
+        }
+    ]
+}
